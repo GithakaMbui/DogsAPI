@@ -1,0 +1,37 @@
+[{
+        "name:": "Lil drama dog",
+        "age": 1,
+        "weight": 2,
+        "image": "https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_3.jpg"
+    },
+    {
+        "name:": "Mastiff bull",
+        "age": 1,
+        "weight": 4,
+        "image": "https://images.dog.ceo/breeds/mastiff-bull/n02108422_200.jpg"
+    },
+    {
+        "name:": "New found land",
+        "age": 1,
+        "weight": 3,
+        "image": "https://images.dog.ceo/breeds/newfoundland/n02111277_5183.jpg"
+    },
+    {
+        "name:": "terrier-irish",
+        "age": 1,
+        "weight": 6,
+        "image": "https://images.dog.ceo/breeds/terrier-irish/n02093991_913.jpg"
+    },
+    {
+        "name:": "groenendael",
+        "age": 1,
+        "weight": 4,
+        "image": "https://images.dog.ceo/breeds/groenendael/n02105056_2552.jpg"
+    },
+    {
+        "name:": "whippet",
+        "age": 1,
+        "weight": 9,
+        "image": "https://images.dog.ceo/breeds/whippet/n02091134_19308.jpg"
+    }
+]
